@@ -6,7 +6,7 @@ Direct link to video: https://youtu.be/6OH_ZiD2xoI
 
 The Linear Technology **LTC2954** device allows a single push button on *and* off of your microcontroller (via a P-channel MOSFET). Additionally it can request an emergency shutdown via a user-configurable delay by pressing and holding the aforementioned button for several seconds.
 
-Here's how to emulate the first two features using our previously used (video #123) Auto Shufoff dual MOSFET circuitry with just a coufple of extra components.
+Here's how to emulate the first two features using our previously used (video #123) Auto Shutoff dual MOSFET circuitry with just a couple of extra components.
 
 Compare the following two circuits; the one of the left is the original circuit; the other is the modified circuit to allow a graceful shutdown request to be be sent to the µController.
 
